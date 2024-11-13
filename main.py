@@ -1,37 +1,37 @@
-# Programmers:  [your names here]
-# Course:  CS151, [Instructors Name]
-# Due Date: [date assignment is due]
-# Lab Assignment:  [number of assignment]
-# Problem Statement:  [what problem does your code solve; i.e., calculating inches from centimeters]
-# Data In: [what information do you request from the user?]
-# Data Out:  [What information do you display for the user?]
-# Credits: [Is your code based of an example in the book, in class, or something else?  Reminder: you should never take code from the Internet or another person.]
-# Input Files: [description of the format of the input files you need for this program to work]
+# Programmers: Lucas Podowski, Paige Ronan
+# Course:  CS151, Dr. Z
+# Due Date: 11/13/2024
+# Lab Assignment:  9
+# Problem Statement:  * Create a program to read in all the attendees and then output the seat assignments.
+# Data In: file name
+# Data Out: the table and seat each person in the list will sit
+# Credits: Dr. Z for teaching us the code
+# Input Files: .txt files
 import os
 
 
-# Purpose:
-# Parameters:
-# Return:
+# Purpose: Ask the user what file they want to choose.
+# Parameters: none
+# Return: filename
 def file_name_choice():
-    file_name = input("Enter file name: ")
-    while not os.path.isfile(file_name):
+    file_name = input("Enter the file name for the guest list: ")
+    while not os.path.isfile(file_name): # Checks to make sure filename exists
         print("Error: File does not exist")
-        file_name = input("Enter file name: ")
+        file_name = input("Renter the file name for the guest list: ")
     return file_name
 
-# Purpose:
-# Parameters:
-# Return:
+# Purpose: Read the first file to a list
+# Parameters: filename
+# Return: names
 def read_file_to_list(file_name):
-    fd = open(file_name, "r")
+    fd = open(file_name, "r") # Opens file for reading
     names = fd.readlines()
     fd.close()
     return names
 
-# Purpose:
-# Parameters: read_file_to_list
-# Return:
+# Purpose: Assign seats to the names
+# Parameters: names
+# Return: none
 def assign_seats(names):
     table = 1
     seat = 1
@@ -43,10 +43,12 @@ def assign_seats(names):
             seat = 1
 
 
-# Purpose:
-# Parameters: read_file_to_list
-# Return:
+# Purpose: Main loop to execute the code
+# Parameters: none
+# Return: none
 def main():
+    print("This program will ask you which guest list file you want to use.\n"
+          "Each name in that file will then be assigned to  one of five seats at a specific table.")
     file_name = file_name_choice()
     names = read_file_to_list(file_name)
     assign_seats(names)
