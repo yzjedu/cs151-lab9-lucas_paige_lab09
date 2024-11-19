@@ -1,13 +1,12 @@
-ENCRYPTED:
-# Mzagzxodji Yjxphzio
+# Reflection Document
 
-* Jxobk Larr Tgsk  : Vgomk Xutgt
-* Vgxztkx Larr Tgsk: Raigy Vujucyqo 
-* Yzajktz OJ: 1911097
+* Octgp Qfww Ylxp  : Altrp Czyly
+* Alceypc Qfww Ylxp: Wfnld Azozhdvt 
+* Defopye TO: 1911097
 
-Znk sgot vaxvuyk lux znoy rgh cgy zu vxgizoik nuc zu ayk royzy gtj ruuvy. Ck cuxqkj zumkznkx zu cxozk znk grmuxozns gtj 
-iujk loxyz he lomaxotm uaz cngz znk zgyqy ckxk gtj znkt sgqotm znks otzu latizouty. Ck ngj yusk jolloiarzoky cnkt 
-cxozotm znk gyyomt ykgzy latizout haz glzkx yusk nkrv lxus Jx.Fkk ck atjkxyzuuj nuc zu ju oz. O ktpuekj cuxqotm cozn
-Raigy, ck huzn vaz ot cuxq zu lomaxk uaz nuc zu yurbk znk vxuhrksy ck igsk av cozn.
+Esp xlty afcazdp qzc estd wlm hld ez aclnetnp szh ez fdp wtded lyo wzzad. Hp hzcvpo ezrpespc ez hctep esp lwrzctesx lyo 
+nzop qtcde mj qtrfctyr zfe hsle esp eldvd hpcp lyo espy xlvtyr espx tyez qfynetzyd. Hp slo dzxp otqqtnfwetpd hspy 
+hctetyr esp lddtry dpled qfynetzy mfe lqepc dzxp spwa qczx Oc.Kpp hp fyopcdezzo szh ez oz te. T pyuzjpo hzcvtyr htes
+Wfnld, hp mzes afe ty hzcv ez qtrfcp zfe szh ez dzwgp esp aczmwpxd hp nlxp fa htes.
 
 
